@@ -1,4 +1,4 @@
-# MERN-dashboard-app
+# MERN Dashboard app
 
 Fully functional fullstack MERN (MongoDB, Express, React and Node.js) dashboard app with complete CRUD functionalities using Refine framework.
 
